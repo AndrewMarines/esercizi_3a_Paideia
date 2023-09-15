@@ -8,7 +8,11 @@
 #8. Chiedere all'utente 3 numeri. Trovare il numero più alto e più basso dei 3. Dire se il numero più basso moltiplicato per 2 è lo stesso più piccolo del più grande(Più strade... p.e. ragionamento o liste con funzione max :D).
 
 #Chi esegue per primo tutti e 6 gli esercizi avra' 2 +. Il secondo 1, Il terzo 1. 
-
+"""
+Se trovate su internet soluzioni iper-complicate per uno di questi esercizi, state sbagliando qualcosa.
+Tutti questi esercizi(tranne gli ultimi 2), si fanno in max 6 righe.
+Leggete e comprendete la soluzione che state leggendo, magari serve per fare qualche richiesta particolare che a voi non serve...
+"""
 
 
 """
