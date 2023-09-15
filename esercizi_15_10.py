@@ -4,9 +4,10 @@
 #4. Chiedere all'utente un numero. Controllare se questo e' compreso tra 1 e 100;
 #5. Chiedere all'utente un numero. Verificare se questo e' pari o dispari. Ricordate operatore modulo;
 #6. x="Pallino", y="Pinco". Far diventare x="Pinco", y="Pallino";
+#7. Creare una lista di 5 elementi. Aggiungere un elemento all'inizio, uno alla fine e rimuoverne uno a scelta(mostrando i passaggi);
+#8. Chiedere all'utente 3 numeri. Trovare il numero più alto e più basso dei 3. Dire se il numero più basso moltiplicato per 2 è lo stesso più piccolo del più grande(Più strade... p.e. ragionamento o liste con funzione max :D).
 
-
-#Chi esegue per primo tutti e 6 gli esercizi avra' 3 +. Il secondo 2, Il terzo 1. 
+#Chi esegue per primo tutti e 6 gli esercizi avra' 2 +. Il secondo 1, Il terzo 1. 
 
 
 
