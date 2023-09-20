@@ -1,3 +1,15 @@
+"""
+Usando tre liste
+Chiedere all'utente di inserire 
+nome, data, e voto finale di 10 studenti.
+
+La prima lista è solo per i nomi, la seconda solo per le date, la terza solo per il voto finale.
+
+Alla fine stampare a schermo tutti i dati in modo decente.
+Calcolare la media della classe.
+
+"""
+
 #creato 3 liste vuote
 nomi=[]
 date=[]
