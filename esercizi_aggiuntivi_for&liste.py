@@ -26,3 +26,4 @@ Una lista bidimensionale e' una roba tipo
 [0,5,2,1,
  3,1,5,7,
  2,2,1,6]
+"""
