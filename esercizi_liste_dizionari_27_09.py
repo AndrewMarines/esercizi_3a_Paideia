@@ -36,3 +36,56 @@ https://www.youtube.com/watch?v=xli_FI7CuzA
 N. Positivi: 3
 N.negativi 2
 """
+
+#1
+
+lista = [1,2,3]
+ciclo = True
+while ciclo:
+  richiesta =int(input("1 se vuoi inserire numero, 0 se vuoi stampare la lista"))
+  if richiesta == 1:
+    inserimento = input("Inserire valore")
+    lista.append(inserimento)
+  else:
+    for index, elemento in enumerate(lista):
+      print(f"Indice: {index} Elemento: {elemento}")
+      ciclo = False
+
+lista_2=[1,5,7,2,6]
+
+for index, elemento in enumerate(lista_2):
+  print(f"Indice: {index} Elemento: {elemento}")
+
+dict={
+  "Andrea":5,
+  "Fena":8,
+  "Azzola":7
+}
+l=[1,5,3,7,2,5]
+i = 0
+while i<len(l):
+    j = 0
+    while j<len(l)-1:
+        if l[j+1] < l[j]:
+            l[j], l[j+1] = l[j+1], l[j]
+        j += 1
+    i += 1
+print(l)
+
+lista_3=[1,15,8]
+temp=lista_3[0]
+lista_3[0]=lista_3[-1]
+lista_3[-1]=temp
+print(lista_3)
+
+lista_4=[5,-8,7,-9,5,5]
+print(lista_4)
+positivi=0
+negativi=0
+for elemento in lista_4:
+  if elemento >=0:
+    positivi+=1
+  else:
+    negativi+=1
+
+print(f"Positivi: {positivi} Negativi: {negativi}")
