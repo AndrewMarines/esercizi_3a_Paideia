@@ -1,6 +1,13 @@
 #Esercizi liste, dizionari
 #1. Creare lista da 3 elementi. Chiedere all'utente infinite volte se vuole inserire un elemento nella lista. Se risponde sì, chiedergli che valore inserire, se risponde no mostrargli tutta la lista completa.
+"""
+tip usare il ciclo while con una variabile che può essere True o False.
+variabile = True
+while variabile:
 
+
+Nel momento in cui voglio fermare il ciclo variabile = False
+"""
 #2. Creare una lista di 10 elementi. Stampare a schermo indice(Il numero civico della casetta...) e elemento
 """
 ES: [56,3,2,1]
