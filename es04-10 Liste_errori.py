@@ -2,7 +2,7 @@
 """
 Date le seguenti variabili:
     somm = 3000
-    c = 0
+    c inserita da utente
 Dividi la variabile somm per la variabile contatore. La variabile c fatela inserire all'utente. Usando il try e except Python gestisci la divisione per zero. Se la divisione è fatta correttamente, stampa il risultato sulla console. Se si verifica un errore, stampa sulla console: Divisione per zero.
 """
 
