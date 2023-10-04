@@ -24,6 +24,21 @@ lista=[1,2,3]
 chiedere all'utente se vuole inserire dei dati o stampare la lista completa(in questo caso far finire il programma).
 I DATI CHE L'UTENTE INSERISCE DEVONO ESSERE PER FORZA NUMERI INTERI!!!
 Come posso verificare se un input è un numero intero o meno in Python? Forse questa ricerca su stackoverflow può darvi qualche risultato?!
+lista=[1,2,3]
+
+controllo=True
+
+while controllo:
+	richiesta=int(input("Inserisci 1 per inserire dati o 0 per stampare lista"))
+	if(richiesta ==0):
+		Fai inserire ad utente un numero. controlla che sia un numero
+		
+	else:
+		printa della lista
+		controllo=False 
+		
+	
+
 """
 
 #es.4
