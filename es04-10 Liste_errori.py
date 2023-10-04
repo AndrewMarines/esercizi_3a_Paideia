@@ -59,7 +59,7 @@ somma = somma(che vale 11)+10
 ATTENZIONE. SE C'È SOLO UN ELEMENTO NON FARE MOLTIPLICAZIONE PER SÈ STESSO. COME FACCIO A VERIFICARE QUANTI ELEMENTI? len(lista)
 """
 
-#es.5
+#es.5,6
 """
 lista=[1,5,8,1,5,7,6,8]
 Eliminare dalla lista tutti gli elementi doppi
