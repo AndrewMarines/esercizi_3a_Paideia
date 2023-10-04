@@ -40,6 +40,8 @@ somma = somma(che vale 5)+6
 3a moltiplicazione uguale a 10
 somma = somma(che vale 11)+10
 ...
+
+ATTENZIONE. SE C'È SOLO UN ELEMENTO NON FARE MOLTIPLICAZIONE PER SÈ STESSO. COME FACCIO A VERIFICARE QUANTI ELEMENTI? len(lista)
 """
 
 #es.5
