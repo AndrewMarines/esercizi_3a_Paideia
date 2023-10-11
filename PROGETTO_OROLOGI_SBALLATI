@@ -42,10 +42,11 @@ Vi consiglio di usare if,elif, else in modo da farlo molto sbrigativo.
 Ogni cosa ha la sua funzione. Da una funzione potete chiamare un’altra funzione se proprio vi serve.
 Ricordate che le funzioni non devono essere giganti, potete dividerle in molte funzioni piccole(Questo fino ad un certo punto, se ne create 10 per fare 10 istruzioni non va bene).
 L’ordine, i commenti vengono apprezzati. Se il programma è ordinato e commentato verrà aggiunto un +.
+La gestione degli errori darà un altro +.
 
 Per fare questo programma avete 9(vedremo se questo valore andrà cambiato. Intanto iniziamo con questo) ore in classe.
 Il programma si divide nei 5 punti del menù. Per ogni punto del menù funzionante verranno attribuiti 2+.
-Si ottengono quindi un max di 10+. Se il programma è ordinato e commentato si potranno quindi raggiungere 11+.
+Si ottengono quindi un max di 10+. Se il programma è ordinato, commentato e gli errori son correttamente gestiti si potranno quindi raggiungere 12+.
 Il progetto andrà mandato alla e-mail a.marini@scuolapaideia.it entro il 24 ottobre. 
 Ad inizio lezione, il 25 ottobre, verranno rilevati i voti proposti.
 Avrete le ultime 3 ore per cambiare il vostro voto.
