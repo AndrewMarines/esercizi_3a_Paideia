@@ -1,0 +1,48 @@
+Orologi sballati!
+In questo progetto dovrete fare il controllo di orologi che hanno diverse velocità…
+Fasi del progetto:
+1-Aggiungere orologi con il loro coefficiente di velocità;
+2-Simulazione di 60 secondi di tutti gli orologi;
+3-Stampaggio dell’attuale orario di tutti gli orologi;
+4-Reset di uno o tutti gli orologi;
+5-Cancellazione di uno o più orologi.
+
+1-Ogni orologio ha un suo nome(chiesto all’utente), coefficiente di velocità(chiesto all’utente), orario(partono tutti da 0). Consiglio: create una funzione in cui chiedete all’utente tutte queste cose e ritornate una lista di questi elementi. Questa lista aggiungetela ad una lista generale. Otterrete una lista di liste.
+ESEMPIO:
+[[“Orologio1”, 1, 0],[“Orologio2”, 1.5, 10]]
+Abbiamo una lista di 2 liste.
+Orologio1 ha coefficiente di velocità 1 e parte da tempo 0,
+Orologio2 ha coefficiente di velocità 1.5 e parte da tempo 10.
+Non cambia assolutamente come ci comportiamo. Con un ciclo for possiamo andare a scorrere le liste e con un altro ciclo for gli elementi della lista per esempio.
+
+2-Quando chiedo la simulazione di 60 secondi vuol dire che dovete creare una funzione che calcola per tutti gli orologi l’attuale tempo. 
+Anche questo va in un’altra funzione. 
+Per ogni orologio calcolate il tempo per 60 secondi e sommatelo all’attuale orario dell’orologio.
+Faccio l’esempio per l’orologio 2.
+Parte da 10 secondi di tempo.
+Ha velocità 1.5 quindi 60*1,5=90.
+L’orologio dopo i 60 secondi avrà orario 10(iniziale)+90(quelli passati per l’orologio) secondi.
+Farlo per ogni orologio.
+
+3- Si tratta solo di stampare in modo decente ogni orologio, il suo coefficiente di velocità e l’orario.
+
+4-L’orologio selezionato o tutti gli orologi in base alla scelta dell’utente devono essere resettati ad orario 0.
+
+5-Eliminare direttamente uno o tutti gli orologi dalla simulazione.
+
+Create un piccolo menù dove l’utente può scegliere che cosa fare. Una roba tipo:
+1-Aggiunta orologio
+2-Simulazione 
+3-Stampaggio
+4-Reset
+5-Cancellazione
+
+L’utente scegli un numero tra 1 e 5 per il programma.
+Vi consiglio di usare if,elif, else in modo da farlo molto sbrigativo.
+Ogni cosa ha la sua funzione. Da una funzione potete chiamare un’altra funzione se proprio vi serve.
+Ricordate che le funzioni non devono essere giganti, potete dividerle in molte funzioni piccole(Questo fino ad un certo punto, se ne create 10 per fare 10 istruzioni non va bene).
+L’ordine, i commenti vengono apprezzati. Se il programma è ordinato e commentato verrà aggiunto un +.
+
+Per fare questo programma avete 9(vedremo se questo valore andrà cambiato. Intanto iniziamo con questo) ore in totale. Al termine delle 9 ore verrà valutato in questo modo.
+Il programma si divide nei 5 punti del menù. Per ogni punto del menù funzionante verranno attribuiti 2+.
+Si ottengono quindi un max di 10+. Se il programma è ordinato e commentato si potranno quindi raggiungere 11+.
