@@ -6,4 +6,5 @@ Per vedere il vostro bilancio andate su questo [link](https://docs.google.com/sp
 
 Per più informazioni conntattemi a:
 **EMAIL**: a.marini@scuolapaideia.it
+**CANALE TELEGRAM**: https://t.me/+VMN7ZBhveeZhNjQ8
 **TELEGRAM** :@marini_andrea
