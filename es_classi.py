@@ -15,6 +15,7 @@ Aggiungi un metodo che stampi le statistiche.
 """
 Creare una lista di giocatori usando la classe Giocatore precedente.
 Trovare il giocatore che ha segnato più gol ed il giocatore che ha eseguito più assist.
+Cercare sort list of objects
 """
 
 #es4[5+]
