@@ -16,6 +16,8 @@ Aggiungi un metodo che stampi le statistiche.
 Creare una lista di giocatori usando la classe Giocatore precedente.
 Trovare il giocatore che ha segnato più gol ed il giocatore che ha eseguito più assist.
 Cercare sort list of objects
+nome_lista.sort(key=lambda x: x.statiistica_che_ti_interessa, reverse=True)
+
 """
 
 #es4[5+]
