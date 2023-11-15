@@ -23,7 +23,7 @@ nome_lista.sort(key=lambda x: x.statiistica_che_ti_interessa, reverse=True)
 #es4[5+]
 """
 Creare una classe Squadra che abbia i seguenti attributi: nome, anno di nascita, lista di giocatori(potete usare la classe dell'es2) nella squadra.
-Aggiungi un metodo che ti permetta di aggiungere un giocatore alla lista;
+Aggiungi un metodo che ti permetta di aggiungere un giocatore alla squadra(lista);
 Aggiungi un metodo che ti dica il capocannoniere della squadra;
 Aggiungi un metodo che ti dica l'assist-man della squadra;
 Aggiungi un metodo che faccia una presentazione ordinata degli elementi della squadra.
